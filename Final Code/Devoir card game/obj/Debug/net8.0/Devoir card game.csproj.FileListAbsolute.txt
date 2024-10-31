@@ -1,0 +1,28 @@
+C:/Users/bnazi/RiderProjects/Devoir card game/Devoir card game/bin/Debug/net8.0/Devoir card game.exe
+C:/Users/bnazi/RiderProjects/Devoir card game/Devoir card game/bin/Debug/net8.0/Devoir card game.deps.json
+C:/Users/bnazi/RiderProjects/Devoir card game/Devoir card game/bin/Debug/net8.0/Devoir card game.runtimeconfig.json
+C:/Users/bnazi/RiderProjects/Devoir card game/Devoir card game/bin/Debug/net8.0/Devoir card game.dll
+C:/Users/bnazi/RiderProjects/Devoir card game/Devoir card game/bin/Debug/net8.0/Devoir card game.pdb
+C:/Users/bnazi/RiderProjects/Devoir card game/Devoir card game/obj/Debug/net8.0/Devoir card game.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bnazi/RiderProjects/Devoir card game/Devoir card game/obj/Debug/net8.0/Devoir card game.AssemblyInfoInputs.cache
+C:/Users/bnazi/RiderProjects/Devoir card game/Devoir card game/obj/Debug/net8.0/Devoir card game.AssemblyInfo.cs
+C:/Users/bnazi/RiderProjects/Devoir card game/Devoir card game/obj/Debug/net8.0/Devoir card game.csproj.CoreCompileInputs.cache
+C:/Users/bnazi/RiderProjects/Devoir card game/Devoir card game/obj/Debug/net8.0/Devoir card game.dll
+C:/Users/bnazi/RiderProjects/Devoir card game/Devoir card game/obj/Debug/net8.0/refint/Devoir card game.dll
+C:/Users/bnazi/RiderProjects/Devoir card game/Devoir card game/obj/Debug/net8.0/Devoir card game.pdb
+C:/Users/bnazi/RiderProjects/Devoir card game/Devoir card game/obj/Debug/net8.0/Devoir card game.genruntimeconfig.cache
+C:/Users/bnazi/RiderProjects/Devoir card game/Devoir card game/obj/Debug/net8.0/ref/Devoir card game.dll
+/Users/deviiilsaint/Desktop/Card Game 2.0/Final Code/Devoir card game/bin/Debug/net8.0/Devoir card game
+/Users/deviiilsaint/Desktop/Card Game 2.0/Final Code/Devoir card game/bin/Debug/net8.0/Devoir card game.deps.json
+/Users/deviiilsaint/Desktop/Card Game 2.0/Final Code/Devoir card game/bin/Debug/net8.0/Devoir card game.runtimeconfig.json
+/Users/deviiilsaint/Desktop/Card Game 2.0/Final Code/Devoir card game/bin/Debug/net8.0/Devoir card game.dll
+/Users/deviiilsaint/Desktop/Card Game 2.0/Final Code/Devoir card game/bin/Debug/net8.0/Devoir card game.pdb
+/Users/deviiilsaint/Desktop/Card Game 2.0/Final Code/Devoir card game/obj/Debug/net8.0/Devoir card game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deviiilsaint/Desktop/Card Game 2.0/Final Code/Devoir card game/obj/Debug/net8.0/Devoir card game.AssemblyInfoInputs.cache
+/Users/deviiilsaint/Desktop/Card Game 2.0/Final Code/Devoir card game/obj/Debug/net8.0/Devoir card game.AssemblyInfo.cs
+/Users/deviiilsaint/Desktop/Card Game 2.0/Final Code/Devoir card game/obj/Debug/net8.0/Devoir card game.csproj.CoreCompileInputs.cache
+/Users/deviiilsaint/Desktop/Card Game 2.0/Final Code/Devoir card game/obj/Debug/net8.0/Devoir card game.dll
+/Users/deviiilsaint/Desktop/Card Game 2.0/Final Code/Devoir card game/obj/Debug/net8.0/refint/Devoir card game.dll
+/Users/deviiilsaint/Desktop/Card Game 2.0/Final Code/Devoir card game/obj/Debug/net8.0/Devoir card game.pdb
+/Users/deviiilsaint/Desktop/Card Game 2.0/Final Code/Devoir card game/obj/Debug/net8.0/Devoir card game.genruntimeconfig.cache
+/Users/deviiilsaint/Desktop/Card Game 2.0/Final Code/Devoir card game/obj/Debug/net8.0/ref/Devoir card game.dll
